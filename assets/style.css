@@ -5,7 +5,7 @@ body {
     align-items: center;
     margin: 0px;
     font-family: monospace;
-    background-image: url('assets/images/background_frame.png');
+    background-image: url('images/background_frame.png');
     background-size: 24px;
     image-rendering: pixelated;
 }
